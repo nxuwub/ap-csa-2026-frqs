@@ -1,4 +1,4 @@
-# ap-csa-2026-frqs
+# AP Computer Science A - 2026 FRQ Solutions
 My solutions and explainations for the 2026 AP CSA Free Response Questions, completed as a post-exam project at FDR High School./
 ## Questions
 - Question 1: String Processing and Iteration
