@@ -8,6 +8,8 @@ I forgot to update the number inside the loop, which made an infinite loop but t
 ## What I Would Do Differently
 study harder and pay attention to your teacher when hes trying to teach you code
 ### FRQ question (the screenshot from the pdf)
-[[<img width="730" height="944" alt="Image" src="https://github.com/user-attachments/assets/eab92439-7736-40fb-b042-5e75356260f6" />
-](https://github.com/nxuwub/ap-csa-2026-frqs/issues/1#issue-4521065220)
-](https://github.com/nxuwub/ap-csa-2026-frqs/issues/1#issue-4521065220)
+<img width="750" height="944" alt="Image" src="https://github.com/user-attachments/assets/eab92439-7736-40fb-b042-5e75356260f6" />
+
+<img width="750" height="1036" alt="Image" src="https://github.com/user-attachments/assets/4b72ba90-d527-4a81-bf47-e38ed121e052" />
+
+<img width="750" height="426" alt="Image" src="https://github.com/user-attachments/assets/0b429464-b05b-4b5e-8033-ea3543d5bd90" />
