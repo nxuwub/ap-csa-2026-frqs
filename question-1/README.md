@@ -8,3 +8,4 @@ I forgot to update the number inside the loop, which made an infinite loop but t
 ## What I Would Do Differently
 study harder and pay attention to your teacher when hes trying to teach you code
 ### FRQ question (the screenshot from the pdf)
+<img width="730" height="944" alt="Image" src="https://github.com/user-attachments/assets/eab92439-7736-40fb-b042-5e75356260f6" />
