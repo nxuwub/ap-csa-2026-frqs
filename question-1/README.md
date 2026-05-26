@@ -7,3 +7,4 @@ I dont really think this one had anything that we did in the course, but there w
 I forgot to update the number inside the loop, which made an infinite loop but thankfully i saw it before going on to the next one. I also didnt know if we were required to check the username inside a loop or outside so i just did it seperatly.
 ## What I Would Do Differently
 study harder and pay attention to your teacher when hes trying to teach you code
+### FRQ question (the screenshot from the pdf)
